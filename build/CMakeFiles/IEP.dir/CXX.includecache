@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/Kituri/sem1/IEP/Lab5/tema/src/dacia.cpp
+iostream
+-
+vehicle.hpp
+/mnt/f/Kituri/sem1/IEP/Lab5/tema/src/vehicle.hpp
+
+/mnt/f/Kituri/sem1/IEP/Lab5/tema/src/vehicle.hpp
+iostream
+-
+
