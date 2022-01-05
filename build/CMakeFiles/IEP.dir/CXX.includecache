@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/Kituri/sem1/IEP/Lab4/Tema/src/main.cpp
+iostream
+-
+payment.h
+/mnt/f/Kituri/sem1/IEP/Lab4/Tema/src/payment.h
+regex
+-
+string
+-
+
+/mnt/f/Kituri/sem1/IEP/Lab4/Tema/src/payment.h
+iostream
+-
+

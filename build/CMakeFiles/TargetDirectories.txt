@@ -1,0 +1,3 @@
+/mnt/f/Kituri/sem1/IEP/Lab4/Tema/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/Kituri/sem1/IEP/Lab4/Tema/build/CMakeFiles/edit_cache.dir
+/mnt/f/Kituri/sem1/IEP/Lab4/Tema/build/CMakeFiles/IEP.dir
